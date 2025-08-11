@@ -23,7 +23,7 @@ setup(
     description="A comprehensive analysis and testing framework for shape parameter optimization in PINNs and RBF models",
     long_description=read_readme(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/shape_parameter_test",
+    url="https://github.com/yoelt11/shape-parameter-test",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",

@@ -65,10 +65,10 @@ jupyter = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/shape_parameter_test"
-Documentation = "https://github.com/yourusername/shape_parameter_test#readme"
-Repository = "https://github.com/yourusername/shape_parameter_test.git"
-Issues = "https://github.com/yourusername/shape_parameter_test/issues"
+Homepage = "https://github.com/yoelt11/shape-parameter-test"
+Documentation = "https://github.com/yoelt11/shape-parameter-test#readme"
+Repository = "https://github.com/yoelt11/shape-parameter-test.git"
+Issues = "https://github.com/yoelt11/shape-parameter-test/issues"
 
 [project.scripts]
 shape-parameter-test = "shape_parameter_test.cli:main"

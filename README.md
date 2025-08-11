@@ -44,7 +44,7 @@ shape_parameter_test/
 ### Installation
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone git@github.com:yoelt11/shape-parameter-test.git
 cd shape_parameter_test
 
 # Install dependencies
